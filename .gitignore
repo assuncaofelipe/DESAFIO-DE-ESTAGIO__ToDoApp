@@ -1,6 +1,7 @@
 # Arquivos gerados pelo Python
 *.pyc
 __pycache__
+.vscode
 
 # Ambiente virtual do Python (ex: virtualenv, pipenv, etc.)
 venv/
